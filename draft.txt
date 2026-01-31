@@ -1,3 +1,6 @@
 Time Stamps:
 
 Thursday 29th January @ 7:11pm: Intro was started but not complete. Messaged group chat about my progress and pasted progress in the shared google doc.
+
+
+Saturday 31st January @ 4:25pm: Updated the team about my progress and that I was going to re-write the introduction for the domain analysis because of the structure. Intro was re-written and pasted in the shared google doc and pushed to git hub.
